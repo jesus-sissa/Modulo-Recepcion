@@ -1,0 +1,1709 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Splash.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\office.dll
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\office.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\22_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Respaldos\Agosto2009\29_Agosto\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.aa_copiar.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Publico\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\Publico\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\Publico\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Publico\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Publico\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Publico\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\Publico\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\Publico\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Publico\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.aa_copiar.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.aa_copiar.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.aa_copiar.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.aa_copiar.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConcentracionATM.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarServicios.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Interop.CRAXDRT.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Interop.CRAXDRT.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotacionesCajeros.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Respaldos\2011\Abril2011\07Abr2011\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\CodigoFuente\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\SIAC\Modulos\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\Documents and Settings\programador3\Escritorio\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarBaseDeDatos.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\ModulosSIAC Kali\Siac\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulos_SISSA2014\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.config
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.ResolveComReference.cache
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.exe
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.pdb
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Modulo_Recepcion.xml
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Interop.CRAXDDRT.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\Interop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\bin\Debug\AxInterop.CrystalActiveXReportViewerLib105.dll
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Acta.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ActaRemision.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Bovedas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioServiciosBoveda.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarDespacho.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioAuditoria.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioCajeros.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambiarCliente.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CancelarEnvioProceso2.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobanteVmodal.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ComprobarRemisiones.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaActasAnomalias.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaAperturasCierres.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CosultaRemisionRechazada.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DescargarArchivo.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachosConsulta.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaConexion.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MovInt_Custodias.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Observaciones.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Pernoctas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RechazarRemision.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Settings.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Frm_BitacoraCambiosRuta.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_BovedasApertura.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarATM.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DialogoAtms.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSalidas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_CambioTurno.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaEntradas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevoluciondeResguardo.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarProceso.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasExternas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_About.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_AsignarFechaYruta.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_ConsultaSaldo.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DespachoRutasPropias.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionDotacion.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionMateriales.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_DevolucionReciboResgLotesBoveda.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Dialogo.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaDotaciones.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaServiciosReg.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_FirmaElectronica2.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginContra.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaResguardos.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Rastreo.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionCustodiasATMs.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasExternas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_RecepcionRutasInternas.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_EntradaMateriales.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Login.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_MENU.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_Reporte.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_VerMensajes.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.Resources.resources
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.TrustInfo.xml
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.exe.manifest
+C:\SIAC\Modulo_Recepcion1\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.application
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_PuntosAgregarRemision.resources
+C:\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_StatusRutas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_PuntosAgregarRemision.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Recepcion\obj\Debug\Modulo_Recepcion.frm_StatusRutas.resources

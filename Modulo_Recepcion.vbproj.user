@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>D:\REPOSITORY\DEPLOYMENT\Modulo_Recepcion\|C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\PublicacionTemporal\Modulo_Recepcion\|C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\PublicacionTemporal\ModuloRecepcion\|C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\PublicacionTemporal\ModuloRecepcion\|http://MTYSTSC1-P03.sissaseguridad.local/Modulo_Recepcion2020/</PublishUrlHistory>
+    <InstallUrlHistory>http://dvl-mty-v01.sissaseguridad.local/Modulo_Recepcion_v4.5/|http://dvl-mty-v01.sissaseguridad.local/Modulo_Recepcion2017/|http://MTYSTSC1-P03.sissaseguridad.local/Modulo_Recepcion2020/|http://MTYSTSC1-P03.sissaseguridad.local/Modulo_Traslado2020/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.sissaseguridad.com</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\C:\Archivos de programa\Business Objects\Common\2.8\managed\</ReferencePath>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
